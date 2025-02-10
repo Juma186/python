@@ -34,6 +34,7 @@ def employee(name,gender,position,salary,age):
 employee("Juma",'Male',"CEO","600000","39")
 employee("Leslie",'Female',"Secretary","120000","30")
 employee("Migel",'Male',"HR","300000","54")
+employee("Mason",'Male',"HR","300000","54")
 
 # Write a program that displays details of 5 students
 #Use a user-defined function with the help of parameter and arguments
